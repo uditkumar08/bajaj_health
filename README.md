@@ -5,11 +5,11 @@ A simple FastAPI application that provides mathematical operations and AI-powere
 ## 📋 What is This?
 
 BFHL API is a web service built with FastAPI that helps you:
-- Calculate Fibonacci sequences
-- Check if numbers are prime
-- Find the Least Common Multiple (LCM)
-- Find the Highest Common Factor (HCF)
-- Get AI-powered responses to your queries
+- Calculate Fibonacci sequences.
+- Check if numbers are prime.
+- Find the Least Common Multiple (LCM).
+- Find the Highest Common Factor (HCF).
+- Get AI-powered responses to your queries.
 
 ## 🎯 Prerequisites
 
